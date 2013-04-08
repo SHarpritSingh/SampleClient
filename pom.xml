@@ -2,7 +2,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.itaas</groupId>
 	<artifactId>simpleClient</artifactId>
-	<version>0.0.2-SNAPSHOT</version>
+	<version>0.0.2</version>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<resources>
